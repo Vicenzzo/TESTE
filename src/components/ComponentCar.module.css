@@ -1,0 +1,17 @@
+.card_car{
+    background-color: rgb(96, 96, 96);
+    width: 150px;
+    margin:  auto 10px auto 10px;
+    border-radius: 20px;
+    padding: 20px;
+    border: 1px solid gold;
+
+}
+.marca_car{
+
+    text-shadow: 0.02em 0.02em 0.02em rgb(255, 255, 255);
+}
+.descricao_car{
+    font-weight: bold;
+    text-shadow: 0.05em 0.05em 0.05em rgb(255, 255, 255);
+}
